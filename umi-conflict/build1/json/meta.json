@@ -1,0 +1,1535 @@
+[
+  {
+    "name": "Military Role NFT #1",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/1.png",
+    "dna": "e1d1a8e5f96bfeef4d3200d63e0d0e8ef5b39e1a",
+    "edition": 1,
+    "date": 1720541112840,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Infantry" },
+      { "trait_type": "02 Role 2", "value": "Artillery" },
+      { "trait_type": "03 Role 3", "value": "Armored" },
+      { "trait_type": "04 Role 4", "value": "Reconnaissance" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #2",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/2.png",
+    "dna": "f2b5a9e6c78d4b8f4f5300d63e0d0e8ef5b39e2b",
+    "edition": 2,
+    "date": 1720541112841,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Aviation" },
+      { "trait_type": "02 Role 2", "value": "Signal" },
+      { "trait_type": "03 Role 3", "value": "Medical" },
+      { "trait_type": "04 Role 4", "value": "Military Police" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #3",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/3.png",
+    "dna": "a3c7e5e8d91e4b8f4f5300d63e0d0e8ef5b39e3c",
+    "edition": 3,
+    "date": 1720541112842,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Logistics" },
+      { "trait_type": "02 Role 2", "value": "Engineering" },
+      { "trait_type": "03 Role 3", "value": "Intelligence" },
+      { "trait_type": "04 Role 4", "value": "Cyber Warfare" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #4",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/4.png",
+    "dna": "b5c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e4d",
+    "edition": 4,
+    "date": 1720541112843,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Sniper" },
+      { "trait_type": "02 Role 2", "value": "Demolition" },
+      { "trait_type": "03 Role 3", "value": "Paratrooper" },
+      { "trait_type": "04 Role 4", "value": "Combat Medic" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #5",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/5.png",
+    "dna": "c5c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e5e",
+    "edition": 5,
+    "date": 1720541112844,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Mortar Operator" },
+      { "trait_type": "02 Role 2", "value": "Tank Driver" },
+      { "trait_type": "03 Role 3", "value": "UAV Pilot" },
+      { "trait_type": "04 Role 4", "value": "EOD" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #6",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/6.png",
+    "dna": "d6c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e6f",
+    "edition": 6,
+    "date": 1720541112845,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Combat Engineer" },
+      { "trait_type": "02 Role 2", "value": "Cryptologic Technician" },
+      { "trait_type": "03 Role 3", "value": "Radar Operator" },
+      { "trait_type": "04 Role 4", "value": "Helicopter Pilot" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #7",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/7.png",
+    "dna": "e7c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e7a",
+    "edition": 7,
+    "date": 1720541112846,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Forward Observer" },
+      { "trait_type": "02 Role 2", "value": "Combat Controller" },
+      { "trait_type": "03 Role 3", "value": "Fire Support Specialist" },
+      { "trait_type": "04 Role 4", "value": "Air Traffic Controller" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #8",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/8.png",
+    "dna": "f8c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e8b",
+    "edition": 8,
+    "date": 1720541112847,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Civil Affairs Specialist" },
+      { "trait_type": "02 Role 2", "value": "Psychological Operations" },
+      { "trait_type": "03 Role 3", "value": "Public Affairs" },
+      { "trait_type": "04 Role 4", "value": "Human Intelligence" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #9",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/9.png",
+    "dna": "g9c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e9c",
+    "edition": 9,
+    "date": 1720541112848,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Combat Diver" },
+      { "trait_type": "02 Role 2", "value": "Navy Seal" },
+      { "trait_type": "03 Role 3", "value": "Army Ranger" },
+      { "trait_type": "04 Role 4", "value": "Special Forces Medic" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #10",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/10.png",
+    "dna": "h0c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e0d",
+    "edition": 10,
+    "date": 1720541112849,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Chemical Corps" },
+      { "trait_type": "02 Role 2", "value": "Air Defense Artillery" },
+      { "trait_type": "03 Role 3", "value": "Biological Warfare Specialist" },
+      { "trait_type": "04 Role 4", "value": "CBRN" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #11",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/11.png",
+    "dna": "j1c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e1d",
+    "edition": 11,
+    "date": 1720541112850,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Drone Operator" },
+      { "trait_type": "02 Role 2", "value": "Air Battle Manager" },
+      { "trait_type": "03 Role 3", "value": "Space Operations" },
+      { "trait_type": "04 Role 4", "value": "Cybersecurity Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #12",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/12.png",
+    "dna": "k2c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e2e",
+    "edition": 12,
+    "date": 1720541112851,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Signal Support Specialist" },
+      { "trait_type": "02 Role 2", "value": "Communication Security" },
+      { "trait_type": "03 Role 3", "value": "Electronic Warfare" },
+      { "trait_type": "04 Role 4", "value": "Information Systems Technician" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #13",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/13.png",
+    "dna": "l3c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e3f",
+    "edition": 13,
+    "date": 1720541112852,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Cavalry Scout" },
+      { "trait_type": "02 Role 2", "value": "Boat Operator" },
+      { "trait_type": "03 Role 3", "value": "Naval Gunfire Liaison Officer" },
+      { "trait_type": "04 Role 4", "value": "Amphibious Assault Vehicle Crew" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #14",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/14.png",
+    "dna": "m4c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e4g",
+    "edition": 14,
+    "date": 1720541112853,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Military Judge" },
+      { "trait_type": "02 Role 2", "value": "Paralegal Specialist" },
+      { "trait_type": "03 Role 3", "value": "Military Prosecutor" },
+      { "trait_type": "04 Role 4", "value": "Legal Administrator" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #15",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/15.png",
+    "dna": "n5c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e5h",
+    "edition": 15,
+    "date": 1720541112854,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Combat Cameraman" },
+      { "trait_type": "02 Role 2", "value": "Information Operations" },
+      { "trait_type": "03 Role 3", "value": "Military Historian" },
+      { "trait_type": "04 Role 4", "value": "Defense Intelligence Analyst" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #16",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/16.png",
+    "dna": "o6c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e6i",
+    "edition": 16,
+    "date": 1720541112855,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Watercraft Operator" },
+      { "trait_type": "02 Role 2", "value": "Seabees" },
+      { "trait_type": "03 Role 3", "value": "Port Security" },
+      { "trait_type": "04 Role 4", "value": "Maritime Interdiction Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #17",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/17.png",
+    "dna": "p7c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e7j",
+    "edition": 17,
+    "date": 1720541112856,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Coastal Defense" },
+      { "trait_type": "02 Role 2", "value": "Anti-Submarine Warfare" },
+      { "trait_type": "03 Role 3", "value": "Naval Aviator" },
+      {
+        "trait_type": "04 Role 4",
+        "value": "Special Warfare Combatant Craft Crewmen"
+      }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #18",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/18.png",
+    "dna": "q8c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e8k",
+    "edition": 18,
+    "date": 1720541112857,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Air Liaison Officer" },
+      { "trait_type": "02 Role 2", "value": "Combat Rescue Officer" },
+      { "trait_type": "03 Role 3", "value": "Pararescue" },
+      { "trait_type": "04 Role 4", "value": "Tactical Air Control" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #19",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/19.png",
+    "dna": "r9c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e9l",
+    "edition": 19,
+    "date": 1720541112858,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Tank Commander" },
+      { "trait_type": "02 Role 2", "value": "Armored Reconnaissance" },
+      { "trait_type": "03 Role 3", "value": "Mechanized Infantry" },
+      { "trait_type": "04 Role 4", "value": "Mortar Team Leader" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #20",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/20.png",
+    "dna": "s0c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e0m",
+    "edition": 20,
+    "date": 1720541112859,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Naval Architect" },
+      { "trait_type": "02 Role 2", "value": "Submarine Officer" },
+      { "trait_type": "03 Role 3", "value": "Diving and Salvage Officer" },
+      { "trait_type": "04 Role 4", "value": "Oceanographer" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #21",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/21.png",
+    "dna": "t1c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e1n",
+    "edition": 21,
+    "date": 1720541112860,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Combat Pilot" },
+      { "trait_type": "02 Role 2", "value": "Weapons Systems Officer" },
+      { "trait_type": "03 Role 3", "value": "Airborne Mission Systems" },
+      { "trait_type": "04 Role 4", "value": "Flight Engineer" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #22",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/22.png",
+    "dna": "u2c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e2o",
+    "edition": 22,
+    "date": 1720541112861,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Missile Defense Operator" },
+      { "trait_type": "02 Role 2", "value": "Surface Warfare Officer" },
+      { "trait_type": "03 Role 3", "value": "Anti-Aircraft Specialist" },
+      { "trait_type": "04 Role 4", "value": "Submarine Warfare Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #23",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/23.png",
+    "dna": "v3c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e3p",
+    "edition": 23,
+    "date": 1720541112862,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Foreign Area Officer" },
+      { "trait_type": "02 Role 2", "value": "Diplomatic Security" },
+      { "trait_type": "03 Role 3", "value": "Liaison Officer" },
+      { "trait_type": "04 Role 4", "value": "Coalition Coordinator" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #24",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/24.png",
+    "dna": "w4c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e4q",
+    "edition": 24,
+    "date": 1720541112863,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Field Artillery Officer" },
+      { "trait_type": "02 Role 2", "value": "Howitzer Operator" },
+      { "trait_type": "03 Role 3", "value": "Fire Control Specialist" },
+      {
+        "trait_type": "04 Role 4",
+        "value": "Multiple Launch Rocket System Crew"
+      }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #25",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/25.png",
+    "dna": "x5c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e5r",
+    "edition": 25,
+    "date": 1720541112864,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Ammunition Technician" },
+      { "trait_type": "02 Role 2", "value": "Ordnance Officer" },
+      { "trait_type": "03 Role 3", "value": "Armament Repair" },
+      { "trait_type": "04 Role 4", "value": "Explosives Safety Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #26",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/26.png",
+    "dna": "y6c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e6s",
+    "edition": 26,
+    "date": 1720541112865,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "K9 Unit Handler" },
+      { "trait_type": "02 Role 2", "value": "Bomb Detection Dog Handler" },
+      { "trait_type": "03 Role 3", "value": "Search and Rescue" },
+      { "trait_type": "04 Role 4", "value": "Military Working Dog Trainer" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #27",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/27.png",
+    "dna": "z7c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e7t",
+    "edition": 27,
+    "date": 1720541112866,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Operations Planner" },
+      { "trait_type": "02 Role 2", "value": "Tactical Analyst" },
+      { "trait_type": "03 Role 3", "value": "Strategic Planner" },
+      { "trait_type": "04 Role 4", "value": "War Game Simulation Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #28",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/28.png",
+    "dna": "a8c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e8u",
+    "edition": 28,
+    "date": 1720541112867,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Armorer" },
+      { "trait_type": "02 Role 2", "value": "Small Arms" },
+      { "trait_type": "03 Role 3", "value": "Weapons Maintenance" },
+      { "trait_type": "04 Role 4", "value": "Gunsmith" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #29",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/29.png",
+    "dna": "b9c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e9v",
+    "edition": 29,
+    "date": 1720541112868,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Medical Evacuation" },
+      { "trait_type": "02 Role 2", "value": "Field Surgeon" },
+      { "trait_type": "03 Role 3", "value": "Trauma Nurse" },
+      { "trait_type": "04 Role 4", "value": "Fleet Marine Force Corpsman" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #30",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/30.png",
+    "dna": "c0c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e0w",
+    "edition": 30,
+    "date": 1720541112869,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Pilot Trainer" },
+      { "trait_type": "02 Role 2", "value": "Aircraft Maintenance" },
+      { "trait_type": "03 Role 3", "value": "Aviation Ordnance" },
+      {
+        "trait_type": "04 Role 4",
+        "value": "Air Traffic Control Radar Technician"
+      }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #31",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/31.png",
+    "dna": "d1c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e1x",
+    "edition": 31,
+    "date": 1720541112870,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Space Systems Analyst" },
+      { "trait_type": "02 Role 2", "value": "Satellite Communications" },
+      { "trait_type": "03 Role 3", "value": "Space Weather Specialist" },
+      { "trait_type": "04 Role 4", "value": "Spacecraft Systems Officer" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #32",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/32.png",
+    "dna": "e2c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e2y",
+    "edition": 32,
+    "date": 1720541112871,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Submarine Sonar Technician" },
+      { "trait_type": "02 Role 2", "value": "Nuclear Propulsion Officer" },
+      { "trait_type": "03 Role 3", "value": "Deep Sea Diver" },
+      { "trait_type": "04 Role 4", "value": "Submarine Communications" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #33",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/33.png",
+    "dna": "f3c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e3z",
+    "edition": 33,
+    "date": 1720541112872,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Parachute Rigger" },
+      { "trait_type": "02 Role 2", "value": "HALO Jumpmaster" },
+      { "trait_type": "03 Role 3", "value": "Anti-Access/Area Denial" },
+      { "trait_type": "04 Role 4", "value": "Airborne Equipment Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #34",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/34.png",
+    "dna": "g4c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e4a",
+    "edition": 34,
+    "date": 1720541112873,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Riverine Warfare" },
+      { "trait_type": "02 Role 2", "value": "Boat Engineer" },
+      { "trait_type": "03 Role 3", "value": "Coastal Patrol" },
+      { "trait_type": "04 Role 4", "value": "Marine Raider" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #35",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/35.png",
+    "dna": "h5c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e5b",
+    "edition": 35,
+    "date": 1720541112874,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Jungle Warfare Specialist" },
+      { "trait_type": "02 Role 2", "value": "Arctic Warfare Specialist" },
+      { "trait_type": "03 Role 3", "value": "Mountain Warfare" },
+      { "trait_type": "04 Role 4", "value": "Desert Warfare" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #36",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/36.png",
+    "dna": "i6c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e6c",
+    "edition": 36,
+    "date": 1720541112875,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Military Deception" },
+      { "trait_type": "02 Role 2", "value": "Cyber Influence Analyst" },
+      { "trait_type": "03 Role 3", "value": "Psychological Operations" },
+      { "trait_type": "04 Role 4", "value": "Operations Planner" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #37",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/37.png",
+    "dna": "j7c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e7d",
+    "edition": 37,
+    "date": 1720541112876,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Cryptologic Linguist" },
+      { "trait_type": "02 Role 2", "value": "Signals Intelligence Analyst" },
+      { "trait_type": "03 Role 3", "value": "Imagery Analyst" },
+      {
+        "trait_type": "04 Role 4",
+        "value": "Intelligence Surveillance and Reconnaissance"
+      }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #38",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/38.png",
+    "dna": "k8c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e8e",
+    "edition": 38,
+    "date": 1720541112877,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Defense Cyber Operations" },
+      { "trait_type": "02 Role 2", "value": "Offensive Cyber Operations" },
+      { "trait_type": "03 Role 3", "value": "Cyber Defense Analyst" },
+      { "trait_type": "04 Role 4", "value": "Cyber Exploitation Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #39",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/39.png",
+    "dna": "l9c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e9f",
+    "edition": 39,
+    "date": 1720541112878,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Combat Weather Specialist" },
+      { "trait_type": "02 Role 2", "value": "Aviation Meteorologist" },
+      { "trait_type": "03 Role 3", "value": "Tactical Weather Observer" },
+      { "trait_type": "04 Role 4", "value": "Special Operations Weatherman" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #40",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/40.png",
+    "dna": "m0c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e0g",
+    "edition": 40,
+    "date": 1720541112879,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Recon Marine" },
+      { "trait_type": "02 Role 2", "value": "Scout Sniper" },
+      { "trait_type": "03 Role 3", "value": "Long Range Surveillance" },
+      { "trait_type": "04 Role 4", "value": "Reconnaissance Scout" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #41",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/41.png",
+    "dna": "n1c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e1h",
+    "edition": 41,
+    "date": 1720541112880,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Combat Arms Instructor" },
+      { "trait_type": "02 Role 2", "value": "Weapons Instructor" },
+      { "trait_type": "03 Role 3", "value": "Marksmanship Trainer" },
+      { "trait_type": "04 Role 4", "value": "Fire/Arms Safety Officer" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #42",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/42.png",
+    "dna": "o2c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e2i",
+    "edition": 42,
+    "date": 1720541112881,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Public Health Officer" },
+      { "trait_type": "02 Role 2", "value": "Veterinary Corps" },
+      { "trait_type": "03 Role 3", "value": "Preventive Medicine" },
+      { "trait_type": "04 Role 4", "value": "Medical Service Corps" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #43",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/43.png",
+    "dna": "p3c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e3j",
+    "edition": 43,
+    "date": 1720541112882,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Armor Officer" },
+      { "trait_type": "02 Role 2", "value": "Mechanized Infantryman" },
+      { "trait_type": "03 Role 3", "value": "Cavalry Leader" },
+      {
+        "trait_type": "04 Role 4",
+        "value": "Self-Propelled Artillery Operator"
+      }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #44",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/44.png",
+    "dna": "q4c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e4k",
+    "edition": 44,
+    "date": 1720541112883,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Intelligence Analyst" },
+      { "trait_type": "02 Role 2", "value": "All Source Intelligence" },
+      { "trait_type": "03 Role 3", "value": "Signals Collection" },
+      { "trait_type": "04 Role 4", "value": "Data Analysis Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #45",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/45.png",
+    "dna": "r5c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e5l",
+    "edition": 45,
+    "date": 1720541112884,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Aircraft Armament Systems" },
+      { "trait_type": "02 Role 2", "value": "Aerospace Propulsion" },
+      { "trait_type": "03 Role 3", "value": "Fuel Systems Specialist" },
+      { "trait_type": "04 Role 4", "value": "Aircraft Avionics" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #46",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/46.png",
+    "dna": "s6c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e6m",
+    "edition": 46,
+    "date": 1720541112885,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Radar Operator" },
+      { "trait_type": "02 Role 2", "value": "AWACS" },
+      { "trait_type": "03 Role 3", "value": "Radar Technician" },
+      { "trait_type": "04 Role 4", "value": "Ground Control Intercept Officer" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #47",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/47.png",
+    "dna": "t7c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e7n",
+    "edition": 47,
+    "date": 1720541112886,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Control Specialist" },
+      { "trait_type": "02 Role 2", "value": "Terminal Attack Controller" },
+      { "trait_type": "03 Role 3", "value": "Tactical Air Coordinator" },
+      { "trait_type": "04 Role 4", "value": "Air Operations Center Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #48",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/48.png",
+    "dna": "u8c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e8o",
+    "edition": 48,
+    "date": 1720541112887,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Navy Diver" },
+      { "trait_type": "02 Role 2", "value": "Underwater Demolition" },
+      { "trait_type": "03 Role 3", "value": "Deep Sea Recovery" },
+      { "trait_type": "04 Role 4", "value": "Salvage Diver" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #49",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/49.png",
+    "dna": "v9c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e9p",
+    "edition": 49,
+    "date": 1720541112888,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Counter-Intelligence Officer" },
+      { "trait_type": "02 Role 2", "value": "Human Terrain Specialist" },
+      { "trait_type": "03 Role 3", "value": "Targeting Analyst" },
+      { "trait_type": "04 Role 4", "value": "Operational Analyst" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #50",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/50.png",
+    "dna": "w0c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e0q",
+    "edition": 50,
+    "date": 1720541112889,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Tactical Medic" },
+      { "trait_type": "02 Role 2", "value": "Combat Lifesaver" },
+      { "trait_type": "03 Role 3", "value": "Advanced Tactical Paramedic" },
+      { "trait_type": "04 Role 4", "value": "Medical Platoon Leader" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #51",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/51.png",
+    "dna": "x1c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e1r",
+    "edition": 51,
+    "date": 1720541112890,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Civil Engineer" },
+      { "trait_type": "02 Role 2", "value": "Electrical Engineer" },
+      { "trait_type": "03 Role 3", "value": "Structural Engineer" },
+      { "trait_type": "04 Role 4", "value": "Combat Construction Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #52",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/52.png",
+    "dna": "y2c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e2s",
+    "edition": 52,
+    "date": 1720541112891,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Logistics Coordinator" },
+      { "trait_type": "02 Role 2", "value": "Supply Chain Management" },
+      { "trait_type": "03 Role 3", "value": "Transportation Specialist" },
+      { "trait_type": "04 Role 4", "value": "Fleet Manager" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #53",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/53.png",
+    "dna": "z3c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e3t",
+    "edition": 53,
+    "date": 1720541112892,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Force Protection" },
+      { "trait_type": "02 Role 2", "value": "Base Defense" },
+      { "trait_type": "03 Role 3", "value": "Physical Security Specialist" },
+      { "trait_type": "04 Role 4", "value": "Anti-Terrorism Officer" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #54",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/54.png",
+    "dna": "a4c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e4u",
+    "edition": 54,
+    "date": 1720541112893,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Range Control Officer" },
+      { "trait_type": "02 Role 2", "value": "Target Acquisition Specialist" },
+      { "trait_type": "03 Role 3", "value": "Ballistics Specialist" },
+      { "trait_type": "04 Role 4", "value": "Range Safety Officer" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #55",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/55.png",
+    "dna": "b5c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e5v",
+    "edition": 55,
+    "date": 1720541112894,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Combat Controller" },
+      { "trait_type": "02 Role 2", "value": "Airfield Seizure" },
+      { "trait_type": "03 Role 3", "value": "Battlefield Airman" },
+      { "trait_type": "04 Role 4", "value": "Air Force Special Tactics" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #56",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/56.png",
+    "dna": "c6c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e6w",
+    "edition": 56,
+    "date": 1720541112895,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Drone Operator" },
+      { "trait_type": "02 Role 2", "value": "Remote Pilot" },
+      { "trait_type": "03 Role 3", "value": "Intel Systems Operator" },
+      { "trait_type": "04 Role 4", "value": "Unmanned Systems Maintenance" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #57",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/57.png",
+    "dna": "d7c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e7x",
+    "edition": 57,
+    "date": 1720541112896,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Battlefield Surveillance" },
+      { "trait_type": "02 Role 2", "value": "Intelligence Collection" },
+      { "trait_type": "03 Role 3", "value": "Reconnaissance Patrol" },
+      { "trait_type": "04 Role 4", "value": "Forward Intelligence" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #58",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/58.png",
+    "dna": "e8c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e8y",
+    "edition": 58,
+    "date": 1720541112897,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Military Interpreter" },
+      { "trait_type": "02 Role 2", "value": "Cultural Support Specialist" },
+      { "trait_type": "03 Role 3", "value": "Linguist" },
+      { "trait_type": "04 Role 4", "value": "Foreign Language Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #59",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/59.png",
+    "dna": "f9c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e9z",
+    "edition": 59,
+    "date": 1720541112898,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Nuclear Weapons Specialist" },
+      { "trait_type": "02 Role 2", "value": "Missile Operations Officer" },
+      { "trait_type": "03 Role 3", "value": "Weapons Maintenance" },
+      { "trait_type": "04 Role 4", "value": "Missile Technician" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #60",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/60.png",
+    "dna": "g0c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e0a",
+    "edition": 60,
+    "date": 1720541112899,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Fast Attack Craft Pilot" },
+      { "trait_type": "02 Role 2", "value": "Riverine Security" },
+      { "trait_type": "03 Role 3", "value": "Aircraft Loadmaster" },
+      { "trait_type": "04 Role 4", "value": "Special Warfare Boat Operator" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #61",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/61.png",
+    "dna": "h1c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e1b",
+    "edition": 61,
+    "date": 1720541112900,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Aerial Delivery Specialist" },
+      { "trait_type": "02 Role 2", "value": "Airlift Operations" },
+      { "trait_type": "03 Role 3", "value": "Paratrooper Coordinator" },
+      { "trait_type": "04 Role 4", "value": "Amphibious Operations Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #62",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/62.png",
+    "dna": "i2c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e2c",
+    "edition": 62,
+    "date": 1720541112901,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Submarine Navigator" },
+      { "trait_type": "02 Role 2", "value": "Torpedo Officer" },
+      { "trait_type": "03 Role 3", "value": "Sonar Technician" },
+      { "trait_type": "04 Role 4", "value": "Submarine Communications Officer" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #63",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/63.png",
+    "dna": "j3c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e3d",
+    "edition": 63,
+    "date": 1720541112902,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Air Defense Command" },
+      { "trait_type": "02 Role 2", "value": "Surface-to-Air Operator" },
+      { "trait_type": "03 Role 3", "value": "Air Intercept Controller" },
+      { "trait_type": "04 Role 4", "value": "Missile Defense Radar Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #64",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/64.png",
+    "dna": "k4c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e4e",
+    "edition": 64,
+    "date": 1720541112903,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Tank Mechanic" },
+      { "trait_type": "02 Role 2", "value": "Turret Technician" },
+      { "trait_type": "03 Role 3", "value": "Combat Vehicle Crewman" },
+      { "trait_type": "04 Role 4", "value": "Armor Maintenance Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #65",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/65.png",
+    "dna": "l5c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e5f",
+    "edition": 65,
+    "date": 1720541112904,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Security Forces" },
+      { "trait_type": "02 Role 2", "value": "Base Security" },
+      { "trait_type": "03 Role 3", "value": "Security Specialist" },
+      { "trait_type": "04 Role 4", "value": "Military Police Investigator" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #66",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/66.png",
+    "dna": "m6c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e6g",
+    "edition": 66,
+    "date": 1720541112905,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Tactical Radio Operator" },
+      { "trait_type": "02 Role 2", "value": "Communications Specialist" },
+      { "trait_type": "03 Role 3", "value": "Network Systems Technician" },
+      {
+        "trait_type": "04 Role 4",
+        "value": "Satellite Communications Technician"
+      }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #67",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/67.png",
+    "dna": "n7c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e7h",
+    "edition": 67,
+    "date": 1720541112906,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Weather Observer" },
+      { "trait_type": "02 Role 2", "value": "Meteorological Technician" },
+      { "trait_type": "03 Role 3", "value": "Climatology Specialist" },
+      { "trait_type": "04 Role 4", "value": "Atmospheric Data Analyst" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #68",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/68.png",
+    "dna": "o8c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e8i",
+    "edition": 68,
+    "date": 1720541112907,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Disaster Response" },
+      { "trait_type": "02 Role 2", "value": "Medical Technician" },
+      { "trait_type": "03 Role 3", "value": "Civil Military Cooperation" },
+      {
+        "trait_type": "04 Role 4",
+        "value": "Humanitarian Assistance Specialist"
+      }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #69",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/69.png",
+    "dna": "p9c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e9j",
+    "edition": 69,
+    "date": 1720541112908,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Cryptanalyst" },
+      { "trait_type": "02 Role 2", "value": "Code Breaker" },
+      { "trait_type": "03 Role 3", "value": "Signals Decryption" },
+      { "trait_type": "04 Role 4", "value": "Cyber Threat Analyst" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #70",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/70.png",
+    "dna": "q0c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e0k",
+    "edition": 70,
+    "date": 1720541112909,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Naval Gunner" },
+      { "trait_type": "02 Role 2", "value": "Anti-Ship Missile Operator" },
+      { "trait_type": "03 Role 3", "value": "Torpedo Operator" },
+      { "trait_type": "04 Role 4", "value": "Fire Control Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #71",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/71.png",
+    "dna": "r1c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e1l",
+    "edition": 71,
+    "date": 1720541112910,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Combat Photographer" },
+      { "trait_type": "02 Role 2", "value": "Military Journalist" },
+      { "trait_type": "03 Role 3", "value": "Video Surveillance Specialist" },
+      { "trait_type": "04 Role 4", "value": "Visual Information Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #72",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/72.png",
+    "dna": "s2c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e2m",
+    "edition": 72,
+    "date": 1720541112911,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "EOD Diver" },
+      { "trait_type": "02 Role 2", "value": "Bomb Squad Technician" },
+      { "trait_type": "03 Role 3", "value": "Mine Clearance Officer" },
+      { "trait_type": "04 Role 4", "value": "Explosive Detection Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #73",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/73.png",
+    "dna": "t3c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e3n",
+    "edition": 73,
+    "date": 1720541112912,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Precision Marksman" },
+      { "trait_type": "02 Role 2", "value": "Sharpshooter" },
+      { "trait_type": "03 Role 3", "value": "Long-Range Rifleman" },
+      { "trait_type": "04 Role 4", "value": "Designated Marksman" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #74",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/74.png",
+    "dna": "u4c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e4o",
+    "edition": 74,
+    "date": 1720541112913,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Military Engineer" },
+      { "trait_type": "02 Role 2", "value": "Battlefield Construction" },
+      { "trait_type": "03 Role 3", "value": "Bridging Engineer" },
+      { "trait_type": "04 Role 4", "value": "Explosive Breaching Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #75",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/75.png",
+    "dna": "v5c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e5p",
+    "edition": 75,
+    "date": 1720541112914,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Cyber Warfare Officer" },
+      { "trait_type": "02 Role 2", "value": "Network Security Specialist" },
+      { "trait_type": "03 Role 3", "value": "Defensive Cyber Operations" },
+      { "trait_type": "04 Role 4", "value": "Information Assurance Analyst" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #76",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/76.png",
+    "dna": "w6c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e6q",
+    "edition": 76,
+    "date": 1720541112915,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Remote Sensing Analyst" },
+      { "trait_type": "02 Role 2", "value": "Imagery Interpretation" },
+      { "trait_type": "03 Role 3", "value": "Topographical Analyst" },
+      {
+        "trait_type": "04 Role 4",
+        "value": "Geospatial Intelligence Specialist"
+      }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #77",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/77.png",
+    "dna": "x7c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e7r",
+    "edition": 77,
+    "date": 1720541112916,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Airborne Infantry" },
+      { "trait_type": "02 Role 2", "value": "Air Assault Specialist" },
+      { "trait_type": "03 Role 3", "value": "Pathfinder" },
+      { "trait_type": "04 Role 4", "value": "Paratrooper" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #78",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/78.png",
+    "dna": "y8c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e8s",
+    "edition": 78,
+    "date": 1720541112917,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Naval Aviator" },
+      { "trait_type": "02 Role 2", "value": "Carrier Operations Specialist" },
+      { "trait_type": "03 Role 3", "value": "Flight Deck Operations" },
+      { "trait_type": "04 Role 4", "value": "Aircraft Carrier Pilot" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #79",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/79.png",
+    "dna": "z9c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e9t",
+    "edition": 79,
+    "date": 1720541112918,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Mine Warfare Specialist" },
+      { "trait_type": "02 Role 2", "value": "Submarine Detection" },
+      { "trait_type": "03 Role 3", "value": "Mine Hunter" },
+      { "trait_type": "04 Role 4", "value": "Anti-Submarine Mine Disposal" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #80",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/80.png",
+    "dna": "a0c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e0u",
+    "edition": 80,
+    "date": 1720541112919,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Radio Operator" },
+      { "trait_type": "02 Role 2", "value": "Signal Officer" },
+      { "trait_type": "03 Role 3", "value": "Electronic Countermeasures" },
+      { "trait_type": "04 Role 4", "value": "Communications Jamming" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #81",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/81.png",
+    "dna": "b1c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e1v",
+    "edition": 81,
+    "date": 1720541112920,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Drill Sergeant" },
+      { "trait_type": "02 Role 2", "value": "Combat Training Officer" },
+      { "trait_type": "03 Role 3", "value": "Physical Fitness Specialist" },
+      { "trait_type": "04 Role 4", "value": "Military Training Instructor" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #82",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/82.png",
+    "dna": "c2c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e2w",
+    "edition": 82,
+    "date": 1720541112921,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Field Artillery Officer" },
+      { "trait_type": "02 Role 2", "value": "Fire Support Specialist" },
+      { "trait_type": "03 Role 3", "value": "Artillery Surveyor" },
+      { "trait_type": "04 Role 4", "value": "Field Operations Coordinator" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #83",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/83.png",
+    "dna": "d3c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e3x",
+    "edition": 83,
+    "date": 1720541112922,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Logistics Officer" },
+      { "trait_type": "02 Role 2", "value": "Supply Chain Manager" },
+      { "trait_type": "03 Role 3", "value": "Transportation Coordinator" },
+      { "trait_type": "04 Role 4", "value": "Operations Analyst" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #84",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/84.png",
+    "dna": "e4c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e4y",
+    "edition": 84,
+    "date": 1720541112923,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Field Medic" },
+      { "trait_type": "02 Role 2", "value": "Combat Medic" },
+      { "trait_type": "03 Role 3", "value": "Emergency Medical Technician" },
+      { "trait_type": "04 Role 4", "value": "Tactical Paramedic" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #85",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/85.png",
+    "dna": "f5c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e5z",
+    "edition": 85,
+    "date": 1720541112924,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Combat Engineer" },
+      { "trait_type": "02 Role 2", "value": "Demolitions Specialist" },
+      { "trait_type": "03 Role 3", "value": "Construction Technician" },
+      { "trait_type": "04 Role 4", "value": "Fortifications Expert" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #86",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/86.png",
+    "dna": "g6c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e6a",
+    "edition": 86,
+    "date": 1720541112925,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Military Intelligence Analyst" },
+      { "trait_type": "02 Role 2", "value": "Tactical Analyst" },
+      { "trait_type": "03 Role 3", "value": "Data Analyst" },
+      { "trait_type": "04 Role 4", "value": "Operations Research Analyst" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #87",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/87.png",
+    "dna": "h7c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e7b",
+    "edition": 87,
+    "date": 1720541112926,
+    "attributes": [
+      {
+        "trait_type": "01 Role 1",
+        "value": "Unmanned Aerial Vehicle Operator"
+      },
+      { "trait_type": "02 Role 2", "value": "Drone Pilot" },
+      { "trait_type": "03 Role 3", "value": "Reconnaissance Operator" },
+      { "trait_type": "04 Role 4", "value": "Targeting Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #88",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/88.png",
+    "dna": "i8c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e8c",
+    "edition": 88,
+    "date": 1720541112927,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Helicopter Mechanic" },
+      { "trait_type": "02 Role 2", "value": "Aviation Maintenance Technician" },
+      { "trait_type": "03 Role 3", "value": "Aircraft Maintenance Crew" },
+      { "trait_type": "04 Role 4", "value": "Flight Line Maintenance" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #89",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/89.png",
+    "dna": "j9c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e9d",
+    "edition": 89,
+    "date": 1720541112928,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Civil Affairs Specialist" },
+      { "trait_type": "02 Role 1", "value": "Cultural Advisor" },
+      { "trait_type": "03 Role 3", "value": "Community Engagement Officer" },
+      { "trait_type": "04 Role 4", "value": "Military Liaison" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #90",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/90.png",
+    "dna": "k0c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e0e",
+    "edition": 90,
+    "date": 1720541112929,
+    "attributes": [
+      {
+        "trait_type": "01 Role 1",
+        "value": "Explosive Ordnance Disposal Technician"
+      },
+      { "trait_type": "02 Role 2", "value": "IED Technician" },
+      { "trait_type": "03 Role 3", "value": "Bomb Disposal Expert" },
+      { "trait_type": "04 Role 4", "value": "Hazardous Materials Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #91",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/91.png",
+    "dna": "l1c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e1f",
+    "edition": 91,
+    "date": 1720541112930,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Field Artillery Crew" },
+      { "trait_type": "02 Role 2", "value": "Gunner" },
+      { "trait_type": "03 Role 3", "value": "Fire Direction Specialist" },
+      { "trait_type": "04 Role 4", "value": "Ballistic Data Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #92",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/92.png",
+    "dna": "m2c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e2g",
+    "edition": 92,
+    "date": 1720541112931,
+    "attributes": [
+      {
+        "trait_type": "01 Role 1",
+        "value": "Joint Terminal Attack Controller"
+      },
+      { "trait_type": "02 Role 2", "value": "Forward Air Controller" },
+      { "trait_type": "03 Role 3", "value": "Close Air Support Specialist" },
+      { "trait_type": "04 Role 4", "value": "Combat Airspace Manager" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #93",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/93.png",
+    "dna": "n3c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e3h",
+    "edition": 93,
+    "date": 1720541112932,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Intelligence Analyst" },
+      { "trait_type": "02 Role 2", "value": "Data Collector" },
+      { "trait_type": "03 Role 3", "value": "Signals Intelligence Specialist" },
+      { "trait_type": "04 Role 4", "value": "Counterintelligence Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #94",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/94.png",
+    "dna": "o4c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e4i",
+    "edition": 94,
+    "date": 1720541112933,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Culinary Specialist" },
+      { "trait_type": "02 Role 2", "value": "Food Service Specialist" },
+      { "trait_type": "03 Role 3", "value": "Dining Facility Manager" },
+      { "trait_type": "04 Role 4", "value": "Nutrition Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #95",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/95.png",
+    "dna": "p5c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e5j",
+    "edition": 95,
+    "date": 1720541112934,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Logistics Specialist" },
+      { "trait_type": "02 Role 2", "value": "Supply Technician" },
+      { "trait_type": "03 Role 3", "value": "Distribution Coordinator" },
+      { "trait_type": "04 Role 4", "value": "Inventory Control Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #96",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/96.png",
+    "dna": "q6c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e6k",
+    "edition": 96,
+    "date": 1720541112935,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Human Resources Specialist" },
+      { "trait_type": "02 Role 2", "value": "Recruitment Officer" },
+      { "trait_type": "03 Role 3", "value": "Personnel Coordinator" },
+      { "trait_type": "04 Role 4", "value": "Employee Relations Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #97",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/97.png",
+    "dna": "r7c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e7l",
+    "edition": 97,
+    "date": 1720541112936,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Military Police Officer" },
+      { "trait_type": "02 Role 2", "value": "Security Forces" },
+      { "trait_type": "03 Role 3", "value": "Criminal Investigations" },
+      { "trait_type": "04 Role 4", "value": "Law Enforcement Specialist" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #98",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/98.png",
+    "dna": "s8c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e8m",
+    "edition": 98,
+    "date": 1720541112937,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Combat Search and Rescue" },
+      { "trait_type": "02 Role 2", "value": "Rescue Swimmer" },
+      { "trait_type": "03 Role 3", "value": "Aerial Rescue Specialist" },
+      { "trait_type": "04 Role 4", "value": "Emergency Response Coordinator" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #99",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/99.png",
+    "dna": "t9c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e9n",
+    "edition": 99,
+    "date": 1720541112938,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Special Operations Forces" },
+      { "trait_type": "02 Role 2", "value": "Covert Operations Specialist" },
+      { "trait_type": "03 Role 3", "value": "Unconventional Warfare" },
+      { "trait_type": "04 Role 4", "value": "Counterterrorism Operator" }
+    ],
+    "compiler": "Military NFT Engine"
+  },
+  {
+    "name": "Military Role NFT #100",
+    "description": "NFT collection representing military roles.",
+    "image": "./images/100.png",
+    "dna": "u0c4f8e1a87d4b8f4f5300d63e0d0e8ef5b39e0p",
+    "edition": 100,
+    "date": 1720541112939,
+    "attributes": [
+      { "trait_type": "01 Role 1", "value": "Tactical Medic" },
+      { "trait_type": "02 Role 2", "value": "Operational Paramedic" },
+      { "trait_type": "03 Role 3", "value": "Emergency Care Provider" },
+      { "trait_type": "04 Role 4", "value": "Combat Lifesaver" }
+    ],
+    "compiler": "Military NFT Engine"
+  }
+]

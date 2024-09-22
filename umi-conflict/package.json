@@ -1,0 +1,28 @@
+{
+  "name": "umi-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node mint-nfts.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@metaplex-foundation/mpl-candy-machine": "latest",
+    "@metaplex-foundation/mpl-token-metadata": "latest",
+    "@metaplex-foundation/umi": "latest",
+    "@metaplex-foundation/umi-bundle-defaults": "latest",
+    "@metaplex-foundation/umi-uploader-irys": "latest",
+    "@metaplex-foundation/umi-uploader-nft-storage": "latest",
+    "@solana/web3.js": "latest",
+    "axios": "^1.7.7",
+    "dotenv": "latest",
+    "form-data": "^4.0.0",
+    "path": "latest",
+    "web3.storage": "latest"
+  }
+}
