@@ -1,3 +1,7 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "no-console": "off", // Disables the no-console rule
+    "react/react-in-jsx-scope": "off" // Disables the rule requiring React in scope
+  }
 }
