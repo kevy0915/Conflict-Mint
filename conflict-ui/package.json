@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next build && next start",
     "lint": "next lint",
     "deploy": "gh-pages -d out --repo https://github.com/kevy0915/conflict_build.git"
   },
