@@ -134,15 +134,34 @@ const Home: React.FC = () => {
         alignItems: "center",
         justifyContent: "center",
         height: "100vh",
+        paddingTop: "170px",
       }}
     >
-      {isReady && <WalletMultiButton />}
+      <div
+        style={{
+          position: "absolute",
+          top: "20px",
+          right: "20px",
+        }}
+      >
+        {isReady && <WalletMultiButton />}
+      </div>
+      {/* <div> */}
       {wallet.publicKey && isReady && (
         <>
-          <div style={{ marginTop: "20px", fontSize: "18px" }}>
+          <div
+            style={{
+              marginTop: "20px",
+              fontSize: "50px",
+              color: "rgb(20, 13, 111)",
+              textShadow: "4px 3px 0px #fff, 9px 8px 0px rgba(0, 0, 0, 0.15)",
+            }}
+          >
             {remaining !== null ? `Remaining NFTs: ${remaining}` : "Loading..."}
           </div>
+
           <button
+            id="btn"
             onClick={mintRandomNFT}
             disabled={minting || remaining === 0}
             style={{
@@ -156,6 +175,7 @@ const Home: React.FC = () => {
         </>
       )}
     </div>
+    // </div>
   );
 };
 

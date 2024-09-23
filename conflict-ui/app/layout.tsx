@@ -11,7 +11,15 @@ export const metadata = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
-      <body>
+      <body
+        style={{
+          backgroundImage: `url('images/bg.png')`,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+          backgroundRepeat: "no-repeat",
+          height: "100vh",
+        }}
+      >
         <WalletContextProvider>{children}</WalletContextProvider>
       </body>
     </html>
