@@ -1,4 +1,4 @@
-// File: /home/tx/dev/solana/conflict-ui/app/page.tsx
+// File: /home/tx/dev/solana/Conflict-Mint/conflict-ui/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
