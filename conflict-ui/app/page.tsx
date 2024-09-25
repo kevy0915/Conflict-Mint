@@ -142,6 +142,8 @@ const Home: React.FC = () => {
           position: "absolute",
           top: "20px",
           right: "20px",
+          outline: "1px solid white",
+          borderRadius: "5px",
         }}
       >
         {isReady && <WalletMultiButton />}
@@ -151,17 +153,19 @@ const Home: React.FC = () => {
         <>
           <div
             style={{
+              paddingTop: "100px",
               marginTop: "20px",
-              fontSize: "50px",
-              color: "rgb(20, 13, 111)",
-              textShadow: "4px 3px 0px #fff, 9px 8px 0px rgba(0, 0, 0, 0.15)",
+              fontSize: "5rem",
+              color: "rgb(57 29 20)",
+              textShadow: "-0.03em -0.03em 0.03em #fff",
             }}
           >
             {remaining !== null ? `Remaining NFTs: ${remaining}` : "Loading..."}
           </div>
 
           <button
-            id="btn"
+            className="button-82-pushable"
+            role="button"
             onClick={mintRandomNFT}
             disabled={minting || remaining === 0}
             style={{
@@ -170,7 +174,11 @@ const Home: React.FC = () => {
               fontSize: "16px",
             }}
           >
-            {minting ? "Minting..." : "Mint Random NFT"}
+            <span className="button-82-shadow"></span>
+            <span className="button-82-edge"></span>
+            <span className="button-82-front text">
+              {minting ? "Minting..." : "Mint Random NFT"}
+            </span>
           </button>
         </>
       )}
