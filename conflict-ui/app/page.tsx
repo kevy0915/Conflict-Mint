@@ -142,8 +142,6 @@ const Home: React.FC = () => {
           position: "absolute",
           top: "20px",
           right: "20px",
-          outline: "1px solid white",
-          borderRadius: "5px",
         }}
       >
         {isReady && <WalletMultiButton />}
@@ -171,12 +169,16 @@ const Home: React.FC = () => {
             style={{
               marginTop: "20px",
               padding: "10px 20px",
-              fontSize: "16px",
             }}
           >
             <span className="button-82-shadow"></span>
             <span className="button-82-edge"></span>
-            <span className="button-82-front text">
+            <span
+              className="button-82-front text"
+              style={{
+                fontSize: "2rem",
+              }}
+            >
               {minting ? "Minting..." : "Mint Random NFT"}
             </span>
           </button>
