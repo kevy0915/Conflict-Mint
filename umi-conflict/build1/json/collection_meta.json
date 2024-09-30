@@ -1,0 +1,9 @@
+{
+  "name": "Sergeant Major",
+  "description": "NFT collection representing military roles.",
+  "image": "./images/1.png",
+  "dna": "e1d1a8e5f96bfeef4d3200d63e0d0e8ef5b39e1a",
+  "edition": 1,
+  "date": 1720541112840,
+  "compiler": "Military NFT Engine"
+}

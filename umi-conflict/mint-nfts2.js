@@ -126,8 +126,8 @@ async function main() {
   await createNft(umi, {
     mint: collectionMint,
     authority: umi.identity,
-    name: "Conflict NFT",
-    uri: nfts[0].uri, // Use the first NFT's URI or create a specific collection metadata
+    name: "Sergeant Major",
+    uri: "https://gateway.pinata.cloud/ipfs/QmQfwUDH4P64ZLdSPNjLihrfkzKxfh4zpz6zpAhjk5GjxX", // Use the first NFT's URI or create a specific collection metadata
     sellerFeeBasisPoints: percentAmount(9.99, 2), // 9.99%
     isCollection: true,
   }).sendAndConfirm(umi);

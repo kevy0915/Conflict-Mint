@@ -13,11 +13,11 @@ export default function RootLayout({ children }: { children: ReactNode }) {
     <html lang="en">
       <body
         style={{
-          backgroundImage: `url('images/bg.png')`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
           height: "100vh",
+          width: "100%",
         }}
       >
         <WalletContextProvider>{children}</WalletContextProvider>

@@ -33,7 +33,7 @@ const Home: React.FC = () => {
     .use(mplCandyMachine());
 
   const candyMachinePubKey = new PublicKey(
-    "3P5FnLfmvCxaswj68jNqZtKRZckk4H3YHpojfnhMe78W"
+    "axkjUTjPsMczE7T6wKdH1c1VhpHEWneZ9hCeNHq1g73"
   );
   const connection = new Connection(clusterApiUrl("devnet"));
   useEffect(() => {
@@ -57,7 +57,7 @@ const Home: React.FC = () => {
     try {
       const fetchedCandyMachine = await fetchCandyMachine(
         umi,
-        publicKey("3P5FnLfmvCxaswj68jNqZtKRZckk4H3YHpojfnhMe78W")
+        publicKey("axkjUTjPsMczE7T6wKdH1c1VhpHEWneZ9hCeNHq1g73")
       );
       setCandyMachine(fetchedCandyMachine);
 
@@ -150,10 +150,10 @@ const Home: React.FC = () => {
       {wallet.publicKey && isReady && (
         <>
           <div
+            className="nft_number"
             style={{
               paddingTop: "100px",
               marginTop: "20px",
-              fontSize: "5rem",
               color: "rgb(57 29 20)",
               textShadow: "-0.03em -0.03em 0.03em #fff",
             }}

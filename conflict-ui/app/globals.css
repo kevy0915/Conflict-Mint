@@ -241,3 +241,23 @@ p {
 .wallet-adapter-button:not([disabled]):hover {
   background-color: #100010 !important;
 }
+
+body {
+  background-image: url("/images/bg.png");
+}
+
+.nft_number {
+  font-size: 5rem;
+}
+
+@media (max-width: 840px) {
+  body {
+    background-image: url("/images/bg_clip2.png");
+  }
+  .nft_number {
+    font-size: 2rem;
+    margin-top: -130px !important;
+    padding-top: 0px !important;
+  }
+}
+
